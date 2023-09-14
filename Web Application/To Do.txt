@@ -1,0 +1,7 @@
+Step 1:
+Create a documentation on how to setup Git on VS code [ref - https://www.youtube.com/watch?v=mR9jhYD3bnI]
+
+Step 2:
+Create a new Directory for Landing Page
+Create a new Sign Up and Login Page
+
