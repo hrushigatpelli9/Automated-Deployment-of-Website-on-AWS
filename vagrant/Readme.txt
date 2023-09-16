@@ -1,1 +1,0 @@
-Delete all the files inside the Vagrant Directory except for Vagrantfile
