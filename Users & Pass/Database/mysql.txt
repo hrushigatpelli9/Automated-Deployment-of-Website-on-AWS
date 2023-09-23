@@ -1,0 +1,6 @@
+user : root
+pass : admin123
+
+user : admin
+pass : admin123
+cmd : mysql -u root -padmin123
